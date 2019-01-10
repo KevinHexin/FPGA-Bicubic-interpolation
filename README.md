@@ -17,3 +17,10 @@ In bicubic-interpolation module, parallel computing is the most important part.S
 Diagram of data cache module is as follows:
 
 In data cache module, i used 8 2048x24bit RAMs to control data writing and reading.The number 8 is for bicubic interpolation and 2048 is for the maximum number of pixels per row.
+
+|  module            |  function     |
+| --------           |   :----:      |
+| video_scaler.v     |  main module  |
+| source_to_scaler.v | input data-stream clock domain cross to scaler clock domain |
+| scaler_to_ddr.v    | output data-stream clock domain cross to DDR clock domain   |
+| others             | use for data cache and interpolation calculation            |
