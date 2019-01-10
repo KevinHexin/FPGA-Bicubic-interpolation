@@ -1,0 +1,525 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/FPGA_Design_Prj/Altera_Design_Prj/tmp/simulate_verify/ram_test
+vBiCubic
+Z0 !s110 1524020252
+!i10b 1
+!s100 n<ULLPZH_E`k>6n^[5k8U0
+I1UmN<A9[06T9KHKW:]6Dz2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0
+w1522672286
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1524020251.000000
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@bi@cubic
+vBiCubic_x0
+R0
+!i10b 1
+!s100 da__R6c`LONjMIi1Xm=lM3
+I5G=bWl=YglK_1=IEf[5jK2
+R1
+R2
+w1523605305
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x0.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x0.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z6 !s108 1524020252.000000
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x0.v|
+!i113 1
+R4
+R5
+n@bi@cubic_x0
+vBiCubic_x1
+R0
+!i10b 1
+!s100 me:Y];BJ;kZ]JPjid]4gA1
+I=>jFf4DD8a25g8:TOToCE2
+R1
+R2
+w1523605342
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x1.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x1.v|
+!i113 1
+R4
+R5
+n@bi@cubic_x1
+vBiCubic_x2
+R0
+!i10b 1
+!s100 K=n@8PLI`1BTI0SMn=@H91
+I56:9_>8n7dDcm68_GdOa<2
+R1
+R2
+w1523688753
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x2.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R6
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x2.v|
+!i113 1
+R4
+R5
+n@bi@cubic_x2
+vBiCubic_x3
+Z7 !s110 1524020253
+!i10b 1
+!s100 bWcNcfg3N>EaX@n6z;<<73
+IhLliJXj;`6zLM^PRVO7R00
+R1
+R2
+w1523688716
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x3.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x3.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1524020253.000000
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_x3.v|
+!i113 1
+R4
+R5
+n@bi@cubic_x3
+vBiCubic_y0
+R7
+!i10b 1
+!s100 ;oocNZBIm;k7XG<AQSHZb1
+I0jeCa];@gODYAU`52PU191
+R1
+R2
+w1523688643
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y0.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y0.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y0.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y0.v|
+!i113 1
+R4
+R5
+n@bi@cubic_y0
+vBiCubic_y1
+R7
+!i10b 1
+!s100 BJhQi]ddSNdIDIBd?bHHf1
+ISIi36WZ17ndP6NI?5CJ[00
+R1
+R2
+w1523694796
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y1.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y1.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y1.v|
+!i113 1
+R4
+R5
+n@bi@cubic_y1
+vBiCubic_y2
+R7
+!i10b 1
+!s100 7R78NTQ1k4hN:hNE2RWA80
+I]3bF>CC0=K[R_5nd7aJ6^2
+R1
+R2
+w1523688616
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y2.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y2.v|
+!i113 1
+R4
+R5
+n@bi@cubic_y2
+vBiCubic_y3
+R7
+!i10b 1
+!s100 O^;S@dH;]dUQJaa?Xfi9I0
+I=bL_aRgTL9Sf=GAlmFD=n3
+R1
+R2
+w1523688743
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y3.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/BiCubic_y3.v|
+!i113 1
+R4
+R5
+n@bi@cubic_y3
+vcash_ram_rw
+Z9 !s110 1524020254
+!i10b 1
+!s100 5_5FNMl3;NYX[=QL@cGS_1
+IP0oLS<B@2nbHDNK[8@2MZ1
+R1
+R2
+w1523849349
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/cash_ram_rw.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/cash_ram_rw.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1524020254.000000
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/cash_ram_rw.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/cash_ram_rw.v|
+!i113 1
+R4
+R5
+vcoefficient
+R9
+!i10b 1
+!s100 C:<^T2YKoRn6[]Li04??[3
+IOlh4[]8WaGA0i]OJ5?45^1
+R1
+R2
+w1523695012
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/coefficient.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/coefficient.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/coefficient.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/coefficient.v|
+!i113 1
+R4
+R5
+vmul_2
+R9
+!i10b 1
+!s100 T`>V^db[oNWE7fT5JI<9>1
+IBWTM9YSUKCPfZd=@T1Ye>1
+R1
+R2
+w1523603826
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_2.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_2.v|
+!i113 1
+R4
+R5
+vmul_3
+R9
+!i10b 1
+!s100 n`f??kc2KX3:>hYF2bAY_1
+I=Rg9Y:LM;dOj@Qc1RfFL=3
+R1
+R2
+w1523603729
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_3.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_3.v|
+!i113 1
+R4
+R5
+vmul_4
+R9
+!i10b 1
+!s100 ]CDH271WDGgi;RC:5;e^00
+IYf@8`edLNPJcE@mKOX[]Q2
+R1
+R2
+w1523603648
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_4.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_4.v
+L0 1
+R3
+r1
+!s85 0
+31
+R10
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_4.v|
+!i113 1
+R4
+R5
+vmul_add_1
+Z11 !s110 1524020255
+!i10b 1
+!s100 4oXU?zG<E@<?`2L0W>AE:0
+Ih9AoMT9F8RL1IiH<LUS]X3
+R1
+R2
+w1523695071
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_1.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_1.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1524020255.000000
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_1.v|
+!i113 1
+R4
+R5
+vmul_add_2
+R11
+!i10b 1
+!s100 OFVn=AHS`e7@m2`][Sd5=2
+IGMPWh2jaT08:k>Ni=H<0o2
+R1
+R2
+w1523695055
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_2.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/mul_add_2.v|
+!i113 1
+R4
+R5
+vram_00
+R11
+!i10b 1
+!s100 o;;e;C:bcWI7k>KnXRd_m0
+I]25<dB0oF]P]?1WU7TSI41
+R1
+R2
+w1505964315
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_00.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_00.v
+Z13 L0 40
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_00.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_00.v|
+!i113 1
+R4
+R5
+vram_01
+Z14 !s110 1524020256
+!i10b 1
+!s100 ZM@LQ@ai:<[a;aXQH>1gH2
+I3i:YSU0mT2fFkOM>XPkXf0
+R1
+R2
+w1505964348
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_01.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_01.v
+R13
+R3
+r1
+!s85 0
+31
+Z15 !s108 1524020256.000000
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_01.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_01.v|
+!i113 1
+R4
+R5
+vram_10
+R14
+!i10b 1
+!s100 f6H]cGeAnQ^11fjJ4deS:3
+ILz1V>Wz;[>X@jNQD9Ajb62
+R1
+R2
+w1505964379
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_10.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_10.v
+R13
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_10.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_10.v|
+!i113 1
+R4
+R5
+vram_11
+R14
+!i10b 1
+!s100 eeHW>Y2=2kn`LRfZOl@U03
+IimeU=EcK@mkII;P?bZQ_`0
+R1
+R2
+w1505964413
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_11.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_11.v
+R13
+R3
+r1
+!s85 0
+31
+R15
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_11.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ram_ip/ram_11.v|
+!i113 1
+R4
+R5
+vramDoublePort
+R11
+!i10b 1
+!s100 2P<4B]f73m;NU:inAJ@JV1
+IAiCBh4UPbo6>jIbY4iW8H1
+R1
+R2
+w1523697188
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ramDoublePort.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ramDoublePort.v
+L0 5
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ramDoublePort.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/ramDoublePort.v|
+!i113 1
+R4
+R5
+nram@double@port
+vscalerTest
+R11
+!i10b 1
+!s100 =:;=NfhdFHgASO[XmnRoQ0
+I;5KOT7=lKPm4kFLFBdS1a3
+R1
+R2
+Z16 w1523857356
+Z17 8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler_tb.v
+Z18 FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler_tb.v
+L0 52
+R3
+r1
+!s85 0
+31
+R12
+Z19 !s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler_tb.v|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler_tb.v|
+!i113 1
+R4
+R5
+nscaler@test
+vvideo_scaler
+R11
+!i10b 1
+!s100 bQ9TGNOCOJV]=I;K`K`D63
+I_cBEWD`Z6dC@_AT;e<AOh3
+R1
+R2
+w1524019980
+8D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler.v
+FD:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/FPGA/FPGA_Design_Prj/ModelSim_Prj/video_scaler_sim_V0/video_scaler.v|
+!i113 1
+R4
+R5
+vvideo_scaler_tb
+R11
+!i10b 1
+!s100 QZN6bP@5X60=SB72_oUKA3
+I:E^UeKGzCL498c[mki?Dm3
+R1
+R2
+R16
+R17
+R18
+L0 11
+R3
+r1
+!s85 0
+31
+R12
+R19
+R20
+!i113 1
+R4
+R5
