@@ -18,6 +18,14 @@ Diagram of data cache module is as follows:
 
 In data cache module, i used 8 2048x24bit RAMs to control data writing and reading.The number 8 is for bicubic interpolation and 2048 is for the maximum number of pixels per row.
 
+| folder|function|
+| --------           |   :----:      |
+|rtl| rtl code |
+|simulation| tested on modelsim, video_scaler_tb.v is the testbench|
+
+Note, after each simulation, the code will output a .raw file, you need drop it into RawToBmp.exe to generate .bmp image.
+
+
 |  module            |  function     |
 | --------           |   :----:      |
 | video_scaler.v     |  main module  |
