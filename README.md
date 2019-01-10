@@ -22,5 +22,5 @@ In data cache module, i used 8 2048x24bit RAMs to control data writing and readi
 | --------           |   :----:      |
 | video_scaler.v     |  main module  |
 | source_to_scaler.v | input data-stream clock domain cross to scaler clock domain |
-| scaler_to_ddr.v    | output data-stream clock domain cross to DDR clock domain   |
+| scaler_to_ddr.v    | scaler clock domain cross to DDR clock domain   |
 | others             | use for data cache and interpolation calculation            |
