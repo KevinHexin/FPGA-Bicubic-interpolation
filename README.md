@@ -5,7 +5,7 @@ bicubic interpolation theory refer: https://en.wikipedia.org/wiki/Bicubic_interp
 
 the main idea is convolution between interpolation kernel and image.
 
-use Verilog HDL implemented Bicubic interpolation.
+This porject used Verilog HDL implemented Bicubic interpolation.
 I had tested on Intel/Altera(EP4CE55F23C8) and Xilinx(xc7a100tfgg484-2) FPGA.
 
 Up to now, FMAX = 165MHz  (tested in xilinx xc7a100tfgg484-2, used DDR3 SDRAM, compile in VIVADO 2017.4).
