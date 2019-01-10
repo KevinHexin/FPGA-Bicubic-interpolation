@@ -1,5 +1,6 @@
 # FPGA-Bicubic-interpolation
 code refer: https://github.com/freecores/video_stream_scaler
+
 bicubic interpolation theory refer: https://en.wikipedia.org/wiki/Bicubic_interpolation
 
 the main idea is convolution between interpolation kernel and image.
