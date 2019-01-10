@@ -11,10 +11,12 @@ In my test, the bicubic-interpolation core could receive input 1920x1080@60Hz vi
 But as we know, design an efficient write&read module between bicubic-interpolation core and DDR SDRAM adapt to high speed data reading and writing is important.
 
 In my design, The module is divided into two main parts, one is bicubic-interpolation, another is data cache.Diagram of bicubic-interpolation module is as follows:
+![Image discription](https://github.com/KevinHexin/FPGA-Bicubic-interpolation/blob/master/image/1.PNG)
 
 In bicubic-interpolation module, parallel computing is the most important part.So the design need to make the best use of multipliers, deepening pipeline and exchange skew for FMAX.
 
 Diagram of data cache module is as follows:
+![Image discription](https://github.com/KevinHexin/FPGA-Bicubic-interpolation/blob/master/image/2.PNG)
 
 In data cache module, i used 8 2048x24bit RAMs to control data writing and reading.The number 8 is for bicubic interpolation and 2048 is for the maximum number of pixels per row.
 
