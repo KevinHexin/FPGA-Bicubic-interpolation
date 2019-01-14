@@ -3,7 +3,7 @@ code refer: https://github.com/freecores/video_stream_scaler
 
 bicubic interpolation theory refer: https://en.wikipedia.org/wiki/Bicubic_interpolation
 
-the main idea is convolution between interpolation kernel and image.
+the main idea behind bicubic interpolation is **convolution between interpolation kernel and image.**
 
 This porject used Verilog HDL implemented Bicubic interpolation.
 I had tested on Intel/Altera(EP4CE55F23C8) and Xilinx(xc7a100tfgg484-2) FPGA.
