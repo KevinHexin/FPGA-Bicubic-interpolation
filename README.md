@@ -8,7 +8,7 @@ the main idea behind bicubic interpolation is **convolution between interpolatio
 This porject used Verilog HDL implemented Bicubic interpolation.
 I had tested on Intel/Altera(EP4CE55F23C8) and Xilinx(xc7a100tfgg484-2) FPGA.
 
-Up to now, FMAX = 165MHz  (tested in xilinx xc7a100tfgg484-2, used DDR3 SDRAM, compile in VIVADO 2017.4, simulate in ModelSim 10).
+**Up to now, FMAX = 165MHz**  (tested in xilinx xc7a100tfgg484-2, used DDR3 SDRAM, compile in VIVADO 2017.4, simulate in ModelSim 10).
 
 In my test, the bicubic-interpolation core could receive input 1920x1080@60Hz video stream and output 1600x1200@60Hz video stream.In theory, interpolation core could receive and output any video resolution that pixel frequency no more than FMAX.
 
