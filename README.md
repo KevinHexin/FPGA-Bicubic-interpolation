@@ -38,5 +38,3 @@ Note, after each simulation, the code will output a .raw file, you need drop it 
 | source_to_scaler.v | input data-stream clock domain cross to scaler clock domain |
 | scaler_to_ddr.v    | scaler clock domain cross to DDR clock domain   |
 | others             | use for data cache and interpolation calculation            |
-
-[my blog](https://blog.csdn.net/Kevin_Hee)
